@@ -57,3 +57,8 @@ C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1
 C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\ref\P1-ap1-josueosorio-20180938.dll
 C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\P1-ap1-josueosorio-20180938.pdb
 C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\P1-ap1-josueosorio-20180938.genruntimeconfig.cache
+C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\UI\Registro\rRegistro.g.cs
+C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\bin\Debug\net5.0-windows\DATA\Registroaportes.db
+C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\UI\Registro\rRegistro.baml
+C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\UI\Consulta\cConsulta.g.cs
+C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\obj\Debug\net5.0-windows\UI\Consulta\cConsulta.baml

@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <StackPanel>
+            <Menu>
+                <MenuItem Header="Registro">
+                    <MenuItem Header="Registro de aportes" Click="MenuItem_Click_4"/>
+                </MenuItem>
+                <MenuItem Header="Consulta">
+                    <MenuItem Header="Consulta de aportes" Click="MenuItem_Click_5"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
     </Grid>
 </Window>

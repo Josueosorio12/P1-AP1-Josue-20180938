@@ -1,4 +1,6 @@
-﻿using System;
+﻿using P1_ap1_josueosorio_20180938.UI.Consulta;
+using P1_ap1_josueosorio_20180938.UI.Registro;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +25,18 @@ namespace P1_ap1_josueosorio_20180938
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void MenuItem_Click_4(object sender, RoutedEventArgs e)
+        {
+            rRegistro r = new rRegistro();
+            r.Show();
+        }
+
+        private void MenuItem_Click_5(object sender, RoutedEventArgs e)
+        {
+            cConsulta c = new cConsulta();
+            c.Show();
         }
     }
 }

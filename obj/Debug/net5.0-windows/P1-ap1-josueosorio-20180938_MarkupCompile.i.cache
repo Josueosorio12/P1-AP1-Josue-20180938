@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\josue\OneDrive\Escritorio\Primer Parcial\P1-ap1-josueosorio-20180938\P1-ap1-josueosorio-20180938\App.xaml
-11407045341
+3-1349801372
 
-12-659830551
+14-368823960
 213-573875780
-MainWindow.xaml;
+MainWindow.xaml;UI\Consulta\cConsulta.xaml;UI\Registro\rRegistro.xaml;
 
-False
+True
 
